@@ -13,8 +13,6 @@
 |-|-|
 |Robert França de Queiroz Sampaio|2222201445|
 
-> \*Projeto individual — não é necessária descrição de contribuições por integrante.\*
-
 \---
 
 ## 🏢 A Empresa
