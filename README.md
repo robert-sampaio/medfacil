@@ -198,23 +198,4 @@ scipy==1.13.1
 
 \---
 
-## 📬 Contato do Professor
-
-**Felipe Santos**  
-felipesantos@uni9.pro.br  
-*Tempo médio de resposta: 24h a 48h úteis*
-
-\---
-
-## 🔗 Link do Repositório Compartilhado
-
-> \*(Preencher após criar a pasta no Google Drive / OneDrive e compartilhar com o professor com permissão de Leitura/Visualização)\*
-
-**Link:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> ⚠️ Este link deve constar obrigatoriamente na \*\*introdução do Documento Final em PDF\*\*.
-
-\---
-
 *Organização Acadêmica · Professor Felipe Santos · 2026*
-
