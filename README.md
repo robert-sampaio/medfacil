@@ -183,6 +183,10 @@ python 03_pesquisa_operacional/modelo_pli.py
 
 **Link:** https://github.com/robert-sampaio/medfacil
 
+## 🎥 Vídeo de Apresentação
+
+**Link:** https://youtu.be/3S6xaa3CFJk
+
 > ⚠️ Este link consta na introdução do Documento Final em PDF.
 
 ---
